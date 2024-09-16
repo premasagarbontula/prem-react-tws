@@ -1,0 +1,13 @@
+.header-nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: none;
+  border-bottom: 2px blue solid;
+}
+input {
+  width: 50%;
+  height: 50px;
+  border-radius: 10px;
+  font-size: 15px;
+}
